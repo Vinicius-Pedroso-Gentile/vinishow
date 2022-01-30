@@ -1,0 +1,18 @@
+pra começar com o projeto do zero vamos fazer os seguintes passos primeiros:
+
+
+→ Tudo isso na pasta aonde vou mexer
+1º yarn init -y
+2º yarn add next react react-dom
+3º dentro do package.json colocar 
+  "scripts":{
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+
+4º Criar uma pasta com o nome page e dentro dela colocar o meu index.json
+
+
+→ Após isso é só eu colocar rodar o codigo

@@ -16,3 +16,5 @@ pra começar com o projeto do zero vamos fazer os seguintes passos primeiros:
 
 
 → Após isso é só eu colocar rodar o codigo
+
+para hospedar o site vou precisar entrar dar o git init e depois o npx gitignore node
